@@ -48,7 +48,7 @@ export function TodoInput({ onAdd }: TodoInputProps) {
     <form onSubmit={handleSubmit}>
       <Card>
         <CardHeader>
-          <CardTitle>할 일 추가</CardTitle>
+          <CardTitle>할 일 추가요</CardTitle>
         </CardHeader>
 
         <CardContent className="flex flex-col gap-3">
